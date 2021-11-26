@@ -4,4 +4,8 @@
 *.iml
 *.ipr
 
+**/target/**
 **/.mvn/**
+
+/web/mvnw.cmd
+/web/mvnw
